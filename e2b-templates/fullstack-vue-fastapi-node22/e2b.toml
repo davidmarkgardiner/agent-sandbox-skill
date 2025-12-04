@@ -1,0 +1,16 @@
+# This is a config for E2B sandbox template.
+# You can use template ID (iv8ws86g0ve3pbnuss6m) or template name (dg-fullstack-vue-fastapi-node22) to create a sandbox:
+
+# Python SDK
+# from e2b import Sandbox, AsyncSandbox
+# sandbox = Sandbox.create("dg-fullstack-vue-fastapi-node22") # Sync sandbox
+# sandbox = await AsyncSandbox.create("dg-fullstack-vue-fastapi-node22") # Async sandbox
+
+# JS SDK
+# import { Sandbox } from 'e2b'
+# const sandbox = await Sandbox.create('dg-fullstack-vue-fastapi-node22')
+
+team_id = "efb7eafe-7af4-4764-a43b-6738915751d9"
+dockerfile = "Dockerfile"
+template_name = "dg-fullstack-vue-fastapi-node22"
+template_id = "iv8ws86g0ve3pbnuss6m"
